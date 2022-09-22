@@ -10,6 +10,8 @@ The algorithm was implemented using minimax tree algorithm and was awarded a sec
 
 The code is developed using Code::Blocks IDE. To compile it into an executable file, add the option of "-fexec-charset=BIG-5"
 
-The UI is shown in command line interface, and here is a sample screenshot of gameplay. Note that in some environment the chesses will be out-of-order.
+The UI is shown in command line interface, and here is a sample screenshot of gameplay, where the black player is AI. 
 
-![Gameplay](./screenshots/screenshot.png "Gameplay")
+(Note that in some environment the chesses will be out-of-order.)
+
+![Gameplay](screenshot.png "Gameplay")
