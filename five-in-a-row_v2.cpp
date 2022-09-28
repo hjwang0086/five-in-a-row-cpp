@@ -111,7 +111,7 @@ int main()
     }
 
     printf("%s Win!\n", (turn == BLACK) ? "black" : "white");
-
+    system("pause");
 
 }
 
