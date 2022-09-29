@@ -1,7 +1,6 @@
 # Five-in-a-row AI Game
 ### Author: Hao-Jen Wang
 ### Date Done: November 2016
-### Environment: Code::Blocks IDE, Windows 10
 
 This game is created the course "Introduction to Intelligent Computing" (CS-460100) at National Tsing Hua University.
 
